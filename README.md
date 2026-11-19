@@ -13,5 +13,5 @@ List of assets currently being used in the project
 * "Modern Night Building" (https://skfb.ly/pNGUK) by Ishxxn is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 * "Beard_Full" (https://skfb.ly/o7voH) by sakuramoto is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 * "Belt" (https://skfb.ly/6ZXqp) by SimpleMan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
+* "Bomb Explosion SFX" (https://pixabay.com/sound-effects/film-special-effects-explosion-47821/) by freesound_community is licensed under Pixabay Content License (https://pixabay.com).
 
